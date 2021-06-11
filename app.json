@@ -7,6 +7,15 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "appleauth.test.cruzan",
+      "usesAppleSignIn": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8478c943-eda3-4f7e-8381-636a9d73fb8b"
+      }
+    }
   }
 }
