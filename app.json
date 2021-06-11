@@ -1,0 +1,12 @@
+{
+  "name": "eas-cli-452",
+  "displayName": "eas-cli-452",
+  "expo": {
+    "name": "eas-cli-452",
+    "slug": "eas-cli-452",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
